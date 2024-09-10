@@ -65,7 +65,7 @@ body {
     z-index: 1;
   }
   
-  .book:hover .cover {
+  .book:active .cover {
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
     -webkit-transform: rotatey(-100deg);
